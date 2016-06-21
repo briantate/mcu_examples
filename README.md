@@ -1,5 +1,5 @@
 # mcu_examples
 
-Simple bare metal MCU examples.
+Simple MCU examples.
 
 Target compiler is GCC
